@@ -9,6 +9,7 @@
         "description": "kamal mia is a highly experienced chef with 10 years of experience.",
         "recipes": [
             {
+                
                 "recipe_name": "Biryani",
                 "ingredients": [
                     "Basmati rice",
@@ -18,10 +19,11 @@
                     "onion"
                 ],
                 "cookingMethod": "Marinate the chicken or mutton with spices. Cook the rice separately and set aside. Fry onions, ginger and garlic in oil. Add the marinated meat and cook until tender. Layer the rice and meat mixture and cook over low heat until fragrant.",
-                "rating": 5,
-                "recipe_image": "https://i.ibb.co/L8FcxTj/f-1.jpg"
+                "rating": 4.9,
+                "recipe_image": "https://i.ibb.co/fNZ7ndz/biriyani.png"
             },
             {
+                
                 "recipe_name": "Shorshe ilish",
                 "ingredients": [
                     "Hilsa fish",
@@ -32,9 +34,10 @@
                 ],
                 "cookingMethod": "Marinate the fish with turmeric and salt. Fry the fish until golden brown. In the same pan, add mustard oil and green chili. Add the fried fish to the pan and cook for a few minutes until the sauce thickens.",
                 "rating": 4.5,
-                "recipe_image": "https://i.ibb.co/GPQ7BZZ/f-2.jpg"
+                "recipe_image": "https://i.ibb.co/k8TQJ6x/hilsa.png"
             },
             {
+                
                 "recipe_name": "Chingri malai curry",
                 "ingredients": [
                     "Prawns",
@@ -45,7 +48,7 @@
                 ],
                 "cookingMethod": "Heat oil in a pan and fry onions, ginger and green chili. Add the prawns and cook until they turn pink. Add coconut milk and let it simmer for a few minutes. Serve hot with rice.",
                 "rating": 4.8,
-                "recipe_image": "https://i.ibb.co/Km1vQ8N/f-3.jpg"
+                "recipe_image": "https://i.ibb.co/MB3Wj5M/chinri.png"
             }
         ]
     },
@@ -53,12 +56,13 @@
         "id": 2,
         "chefPicture": "https://i.ibb.co/gdKSSNf/pexels-rene-asmussen-2544829.jpg",
         "chefName": "jamal mia",
-        "yearsOfExperience": 5,
+        "yearsOfExperience": 4.7,
         "numberOfRecipes": 30,
         "likes": 1500,
         "description": "jamal mia is a talented chef with 5 years of experience in the kitchen.",
         "recipes": [
             {
+               
                 "recipe_name": "Fuchka (Pani puri)",
                 "ingredients": [
                     "Flour",
@@ -67,11 +71,12 @@
                     "Tamarind pulp",
                     "Chili powder"
                 ],
-                "cookingMethod": "Mix flour with water and knead into a dough. Roll out small balls and deep fry until golden brown. Mash boiled potatoes and chickpeas together and add chili powder and tamarind pulp to taste. Fill each fried ball with the potato mixture and serve with spicy tamarind water.",
+                "cookingMethod": "Mix flour with water and knead into a dough. Roll out small balls .",
                 "rating": 4.7,
-                "recipe_image": "https://i.ibb.co/QYrySZc/f-4.jpg"
+                "recipe_image": "https://i.ibb.co/5FvqzF8/fuchkA.png"
             },
             {
+                
                 "recipe_name": "Haleem",
                 "ingredients": [
                     "Lentils",
@@ -82,9 +87,10 @@
                 ],
                 "cookingMethod": "Soak lentils overnight and cook with mutton until soft. Mash the mixture and set aside. Fry onions, ginger and garlic in oil. Add the mashed mixture and let it simmer for a few hours until thick. Serve hot with naan bread.",
                 "rating": 4.1,
-                "recipe_image": "https://i.ibb.co/ryr0ZSR/f-5.jpg"
+                "recipe_image": "https://i.ibb.co/pK1J600/haleem.png"
             },
             {
+               
                 "recipe_name": "Chotpoti",
                 "ingredients": [
                     "Chickpeas",
@@ -95,7 +101,7 @@
                 ],
                 "cookingMethod": "Boil chickpeas and potatoes separately. Mix them together with tamarind pulp, green chili and onions. Serve hot with flatbread.",
                 "rating": 4.4,
-                "recipe_image": "https://i.ibb.co/fXnWLt0/f-6.jpg"
+                "recipe_image": "https://i.ibb.co/XVLDt4N/chotpoti.png"
             }
         ]
     },
@@ -109,6 +115,7 @@
         "description": "Rohim mia is a seasoned chef with 12 years of experience.",
         "recipes": [
             {
+               
                 "recipe_name": "Pitha",
                 "ingredients": [
                     "Rice flour",
@@ -119,10 +126,11 @@
                 ],
                 "cookingMethod": "Mix rice flour with water and knead into a dough. Make small balls and flatten them. Stuff with a mixture of jaggery, coconut, sesame seeds and cardamom powder. Steam for a few minutes and serve hot.",
                 "rating": 4.6,
-                "recipe_image": "https://i.ibb.co/jJ3gxZd/f-7.jpg"
+                "recipe_image": "https://i.ibb.co/7npwx5t/pitha.png"
             },
             {
-                "recipe_name": "Chicken pot pie",
+               
+                "recipe_name": "Chicken Roast",
                 "ingredients": [
                     "chicken",
                     "pie crust",
@@ -132,10 +140,11 @@
                 ],
                 "cookingMethod": "Cook chicken, carrots, peas, and onion in a pot with chicken broth and thyme. Transfer to a baking dish and cover with pie crust. Bake until crust is golden brown.",
                 "rating": 4.3,
-                "recipe_image": "https://i.ibb.co/sgJkqjZ/f-8.jpg"
+                "recipe_image": "https://i.ibb.co/4pL7yHx/chicken.png"
             },
             {
-                "recipe_name": "Chapli kebab",
+                
+                "recipe_name": "Kabab",
                 "ingredients": [
                     "Minced beef",
                     "Onions",
@@ -145,7 +154,7 @@
                 ],
                 "cookingMethod": "Mix minced beef with spices, onions, tomatoes and green chili. Shape into flat patties and fry until brown on both sides. Serve hot with naan bread.",
                 "rating": 4.7,
-                "recipe_image": "https://i.ibb.co/4pg0bzM/f-9.jpg"
+                "recipe_image": "https://i.ibb.co/sj4wQjW/kabab.png"
             }
         ]
     },
@@ -155,10 +164,11 @@
         "chefName": "Rohima Akter",
         "yearsOfExperience": 7,
         "numberOfRecipes": 40,
-        "likes": 2500,
+        "likes": 68000,
         "description": "Rohima Akter is a skilled chef with 7 years of experience in the kitchen.",
         "recipes": [
-            {
+            {    
+                
                 "recipe_name": "Fried chicken",
                 "ingredients": [
                     "chicken",
@@ -168,11 +178,11 @@
                     "vegetable oil"
                 ],
                 "cookingMethod": "Dredge chicken in seasoned flour, dip in a mixture of buttermilk and beaten eggs, then coat in flour again. Fry in hot oil until golden brown and cooked through.",
-                "rating": 4.5,
-                "recipe_image": "https://i.ibb.co/Hgg05Qm/f-10.jpg"
+                "rating": 4.8,
+                "recipe_image": "https://i.ibb.co/8PL477g/fried-chiken.png"
             },
-            {
-                "recipe_name": "Potato salad",
+            {   
+                "recipe_name": "potato fry",
                 "ingredients": [
                     "potatoes",
                     "mayonnaise",
@@ -181,10 +191,11 @@
                     "celery"
                 ],
                 "cookingMethod": "Boil potatoes until tender, then mix with a dressing of mayonnaise, mustard, diced onion, and chopped celery. Serve cold.",
-                "rating": 4.0,
-                "recipe_image": "https://i.ibb.co/BKmsFcH/f-11.jpg"
+                "rating": 4.9,
+                "recipe_image": "https://i.ibb.co/GdYcBBg/fry.png"
             },
-            {
+            {   
+               
                 "recipe_name": "Bhapa pitha",
                 "ingredients": [
                     "Rice flour",
@@ -194,14 +205,14 @@
                     "Water"
                 ],
                 "cookingMethod": "Mix rice flour with water and knead into a dough. Make small balls and flatten them. Stuff with a mixture of grated coconut, jaggery and cardamom powder. Steam for a few minutes and serve hot.",
-                "rating": 4.2,
-                "recipe_image": "https://i.ibb.co/rv2VsFM/f-12.jpg"
+                "rating": 4.7,
+                "recipe_image": "https://i.ibb.co/PNPGzRB/bhapa.png"
             }
         ]
     },
     {
         "id": 5,
-        "chefPicture": "https://i.ibb.co/XxRhL8G/pexels-huy-phan-1397514.jpg",
+        "chefPicture": "https://i.ibb.co/RTb31kr/Capture.png",
         "chefName": "josim mia",
         "yearsOfExperience": 8,
         "numberOfRecipes": 45,
@@ -210,6 +221,7 @@
         "recipes": [
              
     {
+       
         "recipe_name": "Mishti doi",
         "ingredients": [
             "Milk",
@@ -220,9 +232,10 @@
         ],
         "cookingMethod": "Boil milk and add sugar, cardamom powder and saffron. Let it cool to room temperature. Add yogurt and mix well. Transfer to earthen pots and let it sit for a few hours until thickened. Serve chilled.",
         "rating": 4.4,
-        "recipe_image": "https://i.ibb.co/zstvGxc/f-13.jpg"
+        "recipe_image": "https://i.ibb.co/DzKF77s/doi.png"
     },
     {
+       
         "recipe_name": "Barbecue ribs",
         "ingredients": [
             "pork ribs",
@@ -233,9 +246,10 @@
         ],
         "cookingMethod": "Season pork ribs with a mixture of brown sugar, paprika, garlic powder, salt, and pepper. Grill or bake until cooked through, then brush with barbecue sauce and grill or broil until caramelized and sticky.",
         "rating": 4.8,
-        "recipe_image": "https://i.ibb.co/jM7VVDw/f-14.jpg"
+        "recipe_image": "https://i.ibb.co/5njNsZL/ribs.png"
     },
     {
+       
         "recipe_name": "Bhuna khichuri",
         "ingredients": [
             "Rice",
@@ -246,7 +260,7 @@
         ],
         "cookingMethod": "Soak lentils for a few hours. Fry onions, ginger and garlic in oil. Add the lentils, rice and spices. Add water and let it simmer until cooked. Serve hot with fried onions on top.",
         "rating": 4.1,
-        "recipe_image": "https://i.ibb.co/rxD5dtd/f-15.jpg"
+        "recipe_image": "https://i.ibb.co/7R1p5r7/khichuri.png"
     }
         ]
     },
@@ -260,6 +274,7 @@
         "description": "katra mia is a talented chef with 6 years of experience in the kitchen.",
         "recipes" : [
             {
+               
                 "recipe_name": "Kacchi biryani",
                 "ingredients": [
                     "Basmati rice",
@@ -270,10 +285,11 @@
                 ],
                 "cookingMethod": "Marinate mutton with spices. Layer the marinated meat and raw rice in a pot. Add fried onions, ginger and garlic. Seal the pot and cook over low heat until the meat is tender",
                 "rating": 4.3,
-                "recipe_image": "https://i.ibb.co/zZmKHdy/f-16.jpg"
+                "recipe_image": "https://i.ibb.co/LPS9vH2/khacchi.png"
             },
             {
-                "recipe_name": "Kalo jam",
+               
+                "recipe_name": "Sweets",
                 "ingredients": [
                     "Paneer",
                     "Sugar",
@@ -283,9 +299,10 @@
                 ],
                 "cookingMethod": "Knead paneer, flour and cardamom powder into a dough. Make small balls and fry until golden brown. Boil sugar with water to make a syrup. Add the fried balls to the syrup and let it soak for a few hours. Serve cold.",
                 "rating": 4.6,
-                "recipe_image": "https://i.ibb.co/s2kQKw7/f-17.jpg"
+                "recipe_image": "https://i.ibb.co/wYzMFcp/sweets.png"
             },
             {
+               
                 "recipe_name": "Margherita Pizza",
                 "ingredients": [
                     "Pizza dough",
@@ -294,9 +311,9 @@
                     "Basil leaves",
                     "Olive oil"
                 ],
-                "cookingMethod": "Preheat the oven to 450°F (230°C). Roll out the pizza dough to desired size and thickness. Spread tomato sauce evenly over the dough, leaving a small border around the edges. Add fresh mozzarella cheese on top. Drizzle olive oil over the cheese. Bake for 10-12 minutes, or until crust is golden brown and cheese is melted. Remove from oven, sprinkle with basil leaves and serve hot.",
+                "cookingMethod": "Preheat the oven to 450°F (230°C). Roll out the pizza dough to desired size and thickness. Spread tomato sauce evenly over the dough.",
                 "rating": 4.9,
-                "image": "https://i.ibb.co/Ns0K27t/f-18.jpg"
+                "recipe_image": "https://i.ibb.co/KFVkMt6/pizza.png"
             }
         ]
     }
